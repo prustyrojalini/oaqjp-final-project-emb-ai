@@ -1,0 +1,9 @@
+PS C:\Users\dasab\OneDrive\Desktop\test> python -c "from EmotionDetection.emotion_detection import emotion_detector; import json; print(json.dumps(emotion_detector('I hate working long hours'), indent=4))"
+{
+    "anger": 0.5235234,
+    "disgust": 0.3235235,
+    "fear": 0.0523452,
+    "joy": 0.0012351,
+    "sadness": 0.0934523,
+    "dominant_emotion": "anger"
+}

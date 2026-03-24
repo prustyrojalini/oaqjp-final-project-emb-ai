@@ -1,0 +1,2 @@
+PS C:\Users\dasab\OneDrive\Desktop\test> python -c "from EmotionDetection.emotion_detection import emotion_detector; print(emotion_detector('I am so happy I am doing this.'))"
+{'anger': 0.006900222, 'disgust': 0.002235552, 'fear': 0.008443831, 'joy': 0.969792, 'sadness': 0.02102148, 'dominant_emotion': 'joy'}

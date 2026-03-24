@@ -1,0 +1,6 @@
+PS C:\Users\dasab\OneDrive\Desktop\test> python -m pylint server.py EmotionDetection/emotion_detection.py
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 9.23/10, +0.77)
+
+PS C:\Users\dasab\OneDrive\Desktop\test>

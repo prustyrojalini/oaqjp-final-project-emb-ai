@@ -1,0 +1,7 @@
+PS C:\Users\dasab\OneDrive\Desktop\test> python -m unittest test_emotion_detection.py
+.....
+----------------------------------------------------------------------
+Ran 1 test in 0.842s
+
+OK
+PS C:\Users\dasab\OneDrive\Desktop\test>

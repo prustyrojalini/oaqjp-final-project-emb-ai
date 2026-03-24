@@ -1,0 +1,9 @@
+PS C:\Users\dasab\OneDrive\Desktop\test> python
+Python 3.13.5 (main, Mar 10 2026, 12:34:56) [MSC v.1944 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license" for more information.
+>>> import EmotionDetection
+>>> print(EmotionDetection)
+<module 'EmotionDetection' from 'C:\\Users\\dasab\\OneDrive\\Desktop\\test\\EmotionDetection\\__init__.py'>
+>>> from EmotionDetection import emotion_detector
+>>> exit()
+PS C:\Users\dasab\OneDrive\Desktop\test> 
